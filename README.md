@@ -5,7 +5,7 @@ Multi-tier Tableau dashboard analyzing **$262T in global market capitalization**
 ## 📊 View Dashboard
 
 - [**Download PDF**](equity-market-insights-dashboard.pdf) — Full dashboard export
-- [**Tableau Workbook**](EquityMarketInsightsDashboard.twbx) — Open with Tableau Desktop for interactive exploration
+- [**Tableau Workbook**](EquityMarketInsights.twbx) — Open with Tableau Desktop for interactive exploration
 
 ## 🔺 Reverse Pyramid Framework
 
